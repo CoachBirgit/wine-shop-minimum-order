@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wine Shop Minimum Order\n"
+"POT-Creation-Date: 2023-04-07 16:24+0200\n"
+"PO-Revision-Date: 2023-04-07 16:25+0200\n"
+"Last-Translator: Birgit Olzem <hello@coachbirgit.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wine-shop-minimum-order.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: wine-shop-minimum-order.php:74
+msgid "Your cart has been updated!"
+msgstr "Dein Warenkorb wurde aktualisiert!"
+
+#: wine-shop-minimum-order.php:80 wine-shop-minimum-order.php:129
+#, php-format
+msgid "You must have a multiple of %s bottles in your cart."
+msgstr "Die Bestellmenge in deinem Warenkorb muss durch %s teilbar sein."
+
+#. Plugin Name of the plugin/theme
+#: wine-shop-minimum-order.php:88
+msgid "Wine Shop Minimum Order"
+msgstr "Weinshop Mindestbestellung"
+
+#: wine-shop-minimum-order.php:103
+msgid "Wine Shop Minimum Order Settings"
+msgstr "Weinshop Mindestbestellung Einstellungen"
+
+#: wine-shop-minimum-order.php:109
+msgid "Minimum Bottles"
+msgstr "Mindestanzahl Flaschen"
+
+#: wine-shop-minimum-order.php:111
+msgid "Minimum number of bottles required in the cart."
+msgstr "Mindestanzahl von Flaschen im Warenkorb erforderlich."
+
+#: wine-shop-minimum-order.php:117
+msgid "Minimum Quantity Message"
+msgstr "Mindestbestellmenge Nachricht"
+
+#: wine-shop-minimum-order.php:119
+#, php-format
+msgid ""
+"Custom message displayed when the cart does not meet the minimum quantity. "
+"Use %s as a placeholder for the minimum quantity."
+msgstr ""
+"Individuelle Meldung, die angezeigt wird, wenn der Warenkorb die "
+"Mindestmenge nicht erreicht. Verwende %s als Platzhalter für die "
+"Mindestmenge."
+
+#: wine-shop-minimum-order.php:121
+#, php-format
+msgid "You must have a minimum of %s bottles in your cart."
+msgstr "Du musst mindestens %s Flaschen in deinem Warenkorb haben."
+
+#: wine-shop-minimum-order.php:125
+msgid "Divisible Quantity Message"
+msgstr "Mindestbestellmenge teilbar durch"
+
+#: wine-shop-minimum-order.php:127
+#, php-format
+msgid ""
+"Custom message displayed when the cart quantity is not divisible by the "
+"minimum quantity. Use %s as a placeholder for the minimum quantity."
+msgstr ""
+"Individuelle Meldung, die angezeigt wird, wenn die Warenkorbmenge nicht "
+"durch die Mindestmenge teilbar ist. Verwende %s als Platzhalter für die "
+"Mindestmenge."
+
+#. Plugin URI of the plugin/theme
+msgid "https://coachbirgit.com/plugins/wine-shop-minimum-order"
+msgstr "https://coachbirgit.com/plugins/wine-shop-minimum-order"
+
+#. Description of the plugin/theme
+msgid ""
+"Enforces a minimum order quantity of wine bottles in the cart with "
+"customizable increments."
+msgstr ""
+"Erzwingt eine Mindestbestellmenge von Weinflaschen im Warenkorb mit "
+"anpassbaren Abstufungen."
+
+#. Author of the plugin/theme
+msgid "Birgit Olzem"
+msgstr "Birgit Olzem"
+
+#. Author URI of the plugin/theme
+msgid "https://coachbirgit.com"
+msgstr "https://coachbirgit.com"
